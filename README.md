@@ -77,7 +77,6 @@ A curated list of resources to help you get off the ground with Bigtable.
 - [Using Google Cloud Emulators in Integration Tests](https://medium.com/google-cloud/using-google-cloud-emulators-for-integration-tests-7812890ebe0d)
 - [The Joy and Pain of using Google BigTable](https://syslog.ravelin.com/the-joy-and-pain-of-using-google-bigtable-4210604c75be)
 
-
 ## Tutorials
 - [Google Tutorials for Bigtable](https://cloud.google.com/bigtable/docs/tutorials) - List of official tutorials related to Bigtable. 
 - [Cloud Bigtable Examples](https://github.com/GoogleCloudPlatform/cloud-bigtable-examples) - Repo containing official examples of using Bigtable.
