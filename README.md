@@ -4,6 +4,8 @@
 	</div>
   <br />
 	<p>:zap: Delightful list of <a href="https://cloud.google.com/bigtable/">Google Bigtable</a> resources, packages and interesting finds.</p>
+	<br>
+	<img src="https://awesome.re/badge.svg" alt="Awesome List">
 </div>
 
 -----
