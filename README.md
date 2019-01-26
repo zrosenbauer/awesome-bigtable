@@ -56,10 +56,10 @@ A curated list of tools that will help you when working with or building on-top 
 - [Heroic](https://github.com/spotify/heroic) - Scalable time series database based on Bigtable, Cassandra, and Elasticsearch.
 - [Janusgraph](https://github.com/JanusGraph/janusgraph) - Open-source, distributed graph database that can use Bigtable as its storage layer.
 - [GeoMesa](https://github.com/locationtech/geomesa) - Suite of tools for working with big geo-spatial data in a distributed fashion, that can leverage Bigtable as its backend.
-- [GeoWave](https://github.com/locationtech/geowave) - Tool that provides geospatial and temporal indexing on top of Accumulo, HBase, BigTable, Cassandra, and DynamoDB.
+- [GeoWave](https://github.com/locationtech/geowave) - Tool that provides geospatial and temporal indexing on top of Accumulo, HBase, Bigtable, Cassandra, and DynamoDB.
 - [HGraphDB](https://github.com/rayokota/hgraphdb) - Client layer for using HBase (Bigtable) as a graph database.
 - [OpenTSDB](https://github.com/GoogleCloudPlatform/opentsdb-bigtable) - an Open Source Time Series Data Base that can levearge Bigtable as its storage layer.
-- [Cattle DB](https://github.com/wuttem/cattledb) - Timeseries store built on top of BigTable.
+- [Cattle DB](https://github.com/wuttem/cattledb) - Timeseries store built on top of Bigtable.
 - [YildizDB](https://github.com/yildizdb/yildiz) - Graph database layer on top of Bigtable.
 
 # Resources
@@ -74,8 +74,8 @@ A curated list of resources to help you get off the ground with Bigtable.
   - [The right Cloud Bigtable index makes all the difference.](https://medium.com/@duhroach/the-right-cloud-bigtable-index-makes-all-the-difference-3bcabe9bd65a)
   - [Cloud Bigtable : Getting the geography right](https://medium.com/@duhroach/cloud-bigtable-getting-the-geography-right-645577216516)
   - [Using Cloud Bigtable Monitoring UI](https://medium.com/@duhroach/using-cloud-bigtable-monitoring-ui-40d3f4c726d6)
-- [BigTable: storing Protobuf bytes in one column vs splitting the content into column families/qualifiers](https://tech.travelaudience.com/bigtable-storing-protobuf-bytes-in-one-column-vs-splitting-the-content-into-column-families-c231bdff8db7)
-- [Cassandra: Daughter of Dynamo and BigTable](https://blog.insightdatascience.com/cassandra-daughter-of-dynamo-and-bigtable-1b57b16229b9)
+- [Bigtable: storing Protobuf bytes in one column vs splitting the content into column families/qualifiers](https://tech.travelaudience.com/bigtable-storing-protobuf-bytes-in-one-column-vs-splitting-the-content-into-column-families-c231bdff8db7)
+- [Cassandra: Daughter of Dynamo and Bigtable](https://blog.insightdatascience.com/cassandra-daughter-of-dynamo-and-bigtable-1b57b16229b9)
 - [Using Google Cloud Emulators in Integration Tests](https://medium.com/google-cloud/using-google-cloud-emulators-for-integration-tests-7812890ebe0d)
 
 ## Tutorials
@@ -91,9 +91,9 @@ A list of cool things related to Bigtable.
 - [Apache HBase](https://hbase.apache.org/) - The Hadoop database, a distributed, scalable, big data store.
 - [Apache Accumulo](https://github.com/apache/accumulo) - Sorted, distributed key/value store that provides robust, scalable data storage and retrieval.
 - [Tera](https://github.com/baidu/tera) - High performance distributed NoSQL database.
-- [obigstore](https://github.com/mfp/obigstore) - Database with BigTable-like data model atop LevelDB.
+- [obigstore](https://github.com/mfp/obigstore) - Database with Bigtable-like data model atop LevelDB.
 
 ## Interesting Projects
 - [YildizDB Bigtable](https://github.com/yildizdb/bigtable) - TypeScript Bigtable Client with 🔋🔋included.
 - [Bigtable Autoscaler](https://github.com/spotify/bigtable-autoscaler) - Service that autoscales Bigtable clusters based on CPU load.
-- [Tablecloth](https://github.com/Precognitive/tablecloth) - Tool for keeping your interactions with BigTable nice and tidy.
+- [Tablecloth](https://github.com/Precognitive/tablecloth) - Tool for keeping your interactions with Bigtable nice and tidy.
