@@ -20,7 +20,7 @@
   - [Articles & Blog Posts](#articles--blogs)
   - [Tutorials](#tutorials)
 - [Cool Stuff](#cool-stuff)
-  - [Inpsired by Bigtable](#inspired-by-bigtable)
+  - [Inspired by Bigtable](#inspired-by-bigtable)
   - [Interesting Projects](#interesting-projects)
 
 -----
