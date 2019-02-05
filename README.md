@@ -51,6 +51,7 @@ A curated list of tools that will help you when working with or building on-top 
 - [Google Emulator](https://cloud.google.com/bigtable/docs/emulator) - Official in-memory emulator for Cloud Bigtable, included with the Google Cloud SDK.
 - [Spotify Docker Bigtable](https://github.com/spotify/docker-bigtable) - Docker container with an in memory implementation of Google Cloud Bigtable.
 - [Shopify Bigtable Emulator](https://github.com/Shopify/bigtable-emulator) - In memory Go implementation of Bigtable.
+- [LittleTable](https://github.com/steveniemitz/littletable) - In-memory JVM-based emulator for Bigtable.
 
 ## Databases
 - [Heroic](https://github.com/spotify/heroic) - Scalable time series database based on Bigtable, Cassandra, and Elasticsearch.
