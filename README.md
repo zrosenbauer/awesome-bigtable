@@ -3,8 +3,13 @@
 		<img width="300" src="/images/awesome-logo.png" alt="Awesome Bigtable">
 	</div>
   <br />
-	<p>:zap: Delightful list of <a href="https://cloud.google.com/bigtable/">Google Bigtable</a> resources, packages and interesting finds.</p>
+	<p>
+		:zap: Delightful list of <a href="https://cloud.google.com/bigtable/">Google Bigtable</a> resources, packages and interesting finds.
+	</p>
 	<br>
+	<quote>
+		A fully managed, scalable NoSQL database service for large analytical and operational workloads, built and managed by Google.
+	</quote>
 	<img src="https://awesome.re/badge.svg" alt="Awesome List">
 </div>
 
