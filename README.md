@@ -7,14 +7,15 @@
 		:zap: Delightful list of <a href="https://cloud.google.com/bigtable/">Google Bigtable</a> resources, packages and interesting finds.
 	</p>
 	<br>
-	<p>
-		A fully managed, scalable NoSQL database service for large analytical and operational workloads, built and managed by Google.
-	</p>
 	<br>
 	<img src="https://awesome.re/badge.svg" alt="Awesome List">
 </div>
 
 -----
+
+# Google Bigtable
+
+[Bigtable](https://cloud.google.com/bigtable) is a fully managed, scalable NoSQL database service for large analytical and operational workloads, built and managed by Google.
 
 # Contents
 - [Tools](#tools)
