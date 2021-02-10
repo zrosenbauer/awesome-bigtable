@@ -71,18 +71,17 @@ A curated list of tools that will help you when working with or building on-top 
 A curated list of resources to help you get off the ground with Bigtable.
 
 ## Articles & Blogs
-- [Bigtable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
-- [A NoSQL massively parallel table](https://www.cs.rutgers.edu/~pxk/417/notes/content/bigtable.html)
-- [How we moved our Historical Stats from MySQL to Bigtable with zero downtime](https://www.fastly.com/blog/how-we-moved-our-historical-stats-from-mysql-bigtable-zero-downtime)
+- [Bigtable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf) | 2006
+- [A NoSQL massively parallel table](https://www.cs.rutgers.edu/~pxk/417/notes/content/bigtable.html) | 2011-11
+- [How we moved our Historical Stats from MySQL to Bigtable with zero downtime](https://www.fastly.com/blog/how-we-moved-our-historical-stats-from-mysql-bigtable-zero-downtime) | 2017-07
 - [Medium @duhroach](https://medium.com/@duhroach) - Colt McAnlis, DA @ Google
-  - [Cloud Bigtable Performance 101](https://medium.com/@duhroach/cloud-bigtable-performance-101-8bf884bc1d1c)
-  - [The right Cloud Bigtable index makes all the difference.](https://medium.com/@duhroach/the-right-cloud-bigtable-index-makes-all-the-difference-3bcabe9bd65a)
-  - [Cloud Bigtable : Getting the geography right](https://medium.com/@duhroach/cloud-bigtable-getting-the-geography-right-645577216516)
-  - [Using Cloud Bigtable Monitoring UI](https://medium.com/@duhroach/using-cloud-bigtable-monitoring-ui-40d3f4c726d6)
-- [Bigtable: storing Protobuf bytes in one column vs splitting the content into column families/qualifiers](https://tech.travelaudience.com/bigtable-storing-protobuf-bytes-in-one-column-vs-splitting-the-content-into-column-families-c231bdff8db7)
-- [Cassandra: Daughter of Dynamo and Bigtable](https://blog.insightdatascience.com/cassandra-daughter-of-dynamo-and-bigtable-1b57b16229b9)
-- [Using Google Cloud Emulators in Integration Tests](https://medium.com/google-cloud/using-google-cloud-emulators-for-integration-tests-7812890ebe0d)
-- [The Joy and Pain of using Google Bigtable](https://syslog.ravelin.com/the-joy-and-pain-of-using-google-bigtable-4210604c75be)
+  - [Cloud Bigtable Performance 101](https://medium.com/@duhroach/cloud-bigtable-performance-101-8bf884bc1d1c) | 2018-11
+  - [The right Cloud Bigtable index makes all the difference.](https://medium.com/@duhroach/the-right-cloud-bigtable-index-makes-all-the-difference-3bcabe9bd65a) | 2019-1
+  - [Cloud Bigtable : Getting the geography right](https://medium.com/@duhroach/cloud-bigtable-getting-the-geography-right-645577216516) | 2019-1
+  - [Using Cloud Bigtable Monitoring UI](https://medium.com/@duhroach/using-cloud-bigtable-monitoring-ui-40d3f4c726d6) | 2019-1
+- [Bigtable: storing Protobuf bytes in one column vs splitting the content into column families/qualifiers](https://tech.travelaudience.com/bigtable-storing-protobuf-bytes-in-one-column-vs-splitting-the-content-into-column-families-c231bdff8db7) | 2018-1
+- [Using Google Cloud Emulators in Integration Tests](https://medium.com/google-cloud/using-google-cloud-emulators-for-integration-tests-7812890ebe0d) | 2017-6
+- [The Joy and Pain of using Google Bigtable](https://syslog.ravelin.com/the-joy-and-pain-of-using-google-bigtable-4210604c75be) | 2019-1
 
 ## Tutorials
 - [Google Tutorials for Bigtable](https://cloud.google.com/bigtable/docs/tutorials) - List of official tutorials related to Bigtable. 
