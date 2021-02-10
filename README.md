@@ -10,7 +10,7 @@
 	<img src="https://awesome.re/badge.svg" alt="Awesome List">
 </div>
 
------
+---
 
 [Bigtable](https://cloud.google.com/bigtable) is a fully managed, scalable NoSQL database service for large analytical and operational workloads, built and managed by Google.
 
@@ -27,7 +27,7 @@
   - [Inspired by Bigtable](#inspired-by-bigtable)
   - [Interesting Projects](#interesting-projects)
 
------
+---
 
 If you are new to Bigtable I'd recommend checking out the [Bigtable Documentation](https://cloud.google.com/bigtable/docs/). The docs are a great place to start, as you can view a full list of integrations, tutorials and other treats. This list is meant to be a curated list of awesome Bigtable "things" to supplement any official documentation.
 
