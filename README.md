@@ -101,3 +101,7 @@ A list of cool things related to Bigtable.
 ## Interesting Projects
 - [YildizDB Bigtable](https://github.com/yildizdb/bigtable) - TypeScript Bigtable Client with 🔋🔋included.
 - [Bigtable Autoscaler](https://github.com/spotify/bigtable-autoscaler) - Service that autoscales Bigtable clusters based on CPU load.
+
+----
+
+**Logo Source:** https://logomakr.com/4gLK5l
