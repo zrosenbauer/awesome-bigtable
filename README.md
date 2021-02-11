@@ -12,7 +12,7 @@
 
 ---
 
-# Bigtable
+# Awesome Bigtable
 
 [Bigtable](https://cloud.google.com/bigtable) is a fully managed, scalable NoSQL database service for large analytical and operational workloads, built and managed by Google.
 
