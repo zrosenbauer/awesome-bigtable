@@ -34,6 +34,7 @@
 
 If you are new to Bigtable I'd recommend checking out the [Bigtable Documentation](https://cloud.google.com/bigtable/docs/). The docs are a great place to start, as you can view a full list of integrations, tutorials and other treats. This list is meant to be a curated list of awesome Bigtable "things" to supplement any official documentation.
 
+<!--lint ignore no-emphasis-as-heading-->
 **Awesome mentioned badge**
 
 If your package or repository is mentioned in this list feel free to add the Awesome mentioned badge to your README.md.
