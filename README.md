@@ -34,6 +34,13 @@
 
 If you are new to Bigtable I'd recommend checking out the [Bigtable Documentation](https://cloud.google.com/bigtable/docs/). The docs are a great place to start, as you can view a full list of integrations, tutorials and other treats. This list is meant to be a curated list of awesome Bigtable "things" to supplement any official documentation.
 
+**Awesome mentioned badge**
+
+If your package or repository is mentioned in this list feel free to add the Awesome mentioned badge to your README.md.
+
+```md
+[![Mentioned in Awesome Bigtable](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/zrosenbauer/awesome-bigtable)
+```
 ## Tools
 A curated list of tools that will help you when working with or building on-top of Bigtable.
 
@@ -104,15 +111,6 @@ A list of cool things related to Bigtable.
 ### Interesting Projects
 - [YildizDB Bigtable](https://github.com/yildizdb/bigtable) - TypeScript Bigtable Client with 🔋🔋included.
 - [Bigtable Autoscaler](https://github.com/spotify/bigtable-autoscaler) - Service that autoscales Bigtable clusters based on CPU load.
-
-<!--lint ignore awesome-toc-->
-## Awesome mentioned badge
-
-If your package or repository is mentioned in this list feel free to add the Awesome mentioned badge to your README.md.
-
-```md
-[![Mentioned in Awesome Bigtable](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/zrosenbauer/awesome-bigtable)
-```
 
 ---
 
