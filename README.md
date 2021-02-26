@@ -43,7 +43,7 @@ A curated list of tools that will help you when working with or building on-top 
 - [Node.js](https://github.com/googleapis/nodejs-bigtable) - Official implementation of the Google Cloud Bigtable Node.js client.
 - [Python](https://github.com/googleapis/python-bigtable) - Official implementation of the Google Cloud Bigtable python client.
 - [HappyBase](https://github.com/googleapis/google-cloud-python-happybase) - Official client which uses a HappyBase emulation layer which uses Bigtable as the underlying storage layer.
-- [Java](https://github.com/googleapis/java-bigtable) - Official implementation of the Google Cloud Bigtable python client.
+- [Java](https://github.com/googleapis/java-bigtable) - Official implementation of the Google Cloud Bigtable Java client.
 - [HBase Java](https://github.com/GoogleCloudPlatform/cloud-bigtable-client) - Official Java libraries and HBase client extensions for accessing Google Cloud Bigtable.
 - [Go](https://github.com/googleapis/google-cloud-go/tree/master/bigtable) - Official implementation of the Google Cloud Bigtable Go client.
 - [PHP](https://github.com/googleapis/google-cloud-php-bigtable) - Official implementation of the Google Cloud Bigtable PHP client.
