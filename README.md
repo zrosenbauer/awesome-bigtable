@@ -41,8 +41,9 @@ A curated list of tools that will help you when working with or building on-top 
 - [C++](https://github.com/GoogleCloudPlatform/google-cloud-cpp/tree/master/google/cloud/bigtable) - Official implementation of the Google Cloud Bigtable C++ client.
 - [C#](https://github.com/googleapis/google-cloud-dotnet) - Official implementation of the Google Cloud Bigtable .NET client.
 - [Node.js](https://github.com/googleapis/nodejs-bigtable) - Official implementation of the Google Cloud Bigtable Node.js client.
-- [Python](https://github.com/googleapis/google-cloud-python/tree/master/bigtable) - Official implementation of the Google Cloud Bigtable python client.
+- [Python](https://github.com/googleapis/python-bigtable) - Official implementation of the Google Cloud Bigtable python client.
 - [HappyBase](https://github.com/googleapis/google-cloud-python-happybase) - Official client which uses a HappyBase emulation layer which uses Bigtable as the underlying storage layer.
+- [Java](https://github.com/googleapis/java-bigtable) - Official implementation of the Google Cloud Bigtable Java client.
 - [HBase Java](https://github.com/GoogleCloudPlatform/cloud-bigtable-client) - Official Java libraries and HBase client extensions for accessing Google Cloud Bigtable.
 - [Go](https://github.com/googleapis/google-cloud-go/tree/master/bigtable) - Official implementation of the Google Cloud Bigtable Go client.
 - [PHP](https://github.com/googleapis/google-cloud-php-bigtable) - Official implementation of the Google Cloud Bigtable PHP client.
@@ -102,7 +103,7 @@ A list of cool things related to Bigtable.
 - [obigstore](https://github.com/mfp/obigstore) - Database with Bigtable-like data model atop LevelDB.
 
 ### Interesting Projects
-- [YildizDB Bigtable](https://github.com/yildizdb/bigtable) - TypeScript Bigtable Client with 🔋🔋included.
+- [YildizDB Bigtable](https://github.com/yildizdb/bigtable) - TypeScript Bigtable Client with 🔋🔋 included.
 - [Bigtable Autoscaler](https://github.com/spotify/bigtable-autoscaler) - Service that autoscales Bigtable clusters based on CPU load.
 
 <!--lint ignore no-emphasis-as-heading-->
