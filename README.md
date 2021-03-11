@@ -1,6 +1,6 @@
 <div align="center">
 	<div>
-		<img width="300" src="/awesome-logo.png" alt="Awesome Bigtable">
+		<img width="180" src="/awesome-logo.png" alt="Awesome Bigtable">
 	</div>
     <br />
 	<p>
