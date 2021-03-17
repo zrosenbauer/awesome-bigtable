@@ -53,8 +53,8 @@ A curated list of tools that will help you when working with or building on-top 
 - [Simple Bigtable](https://github.com/spotify/simple-bigtable) - Java based client built and maintained by Spotify.
 - [Rust Bigtable](https://github.com/durch/rust-bigtable) - Rust library for working with Google Bigtable Data API.
 - [AsyncBigtable](https://github.com/OpenTSDB/asyncbigtable) - Implementation of AsyncHBase but on top of Google's Cloud Bigtable service.
-- [node-hbase-client](https://github.com/alibaba/node-hbase-client)- Asynchronous HBase client for Node.js, pure JavaScript implementation by Alibaba.
-- [node-hbase](https://github.com/adaltas/node-hbase) - Node.js HBase is a Node.JS client for the Apache HBase database.
+- [node-hbase-client](https://github.com/alibaba/node-hbase-client) - Asynchronous HBase client for Node.js, pure JavaScript implementation.
+- [node-hbase](https://github.com/adaltas/node-hbase) - A Node.js client for the Apache HBase database.
 
 ### Command-line
 - [cbt](https://cloud.google.com/bigtable/docs/cbt-overview) - Official command-line interface for performing several different operations on Cloud Bigtable. 
