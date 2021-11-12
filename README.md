@@ -19,8 +19,8 @@
 ## Contents
 
 - [Tools](#tools)
-  - [Official Client-Libraries](#official-client-libraries)
-  - [Other Client-Libraries](#other-client-libraries)
+  - [Official Client Libraries](#official-client-libraries)
+  - [Other Client Libraries](#other-client-libraries)
   - [Command-line](#command-line)
   - [Emulators](#emulators)
   - [Databases](#databases)
