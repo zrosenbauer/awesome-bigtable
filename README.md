@@ -22,6 +22,7 @@
   - [Official Client Libraries](#official-client-libraries)
   - [Other Client Libraries](#other-client-libraries)
   - [Command-line](#command-line)
+  - [GUI](#gui)
   - [Emulators](#emulators)
   - [Databases](#databases)
 - [Resources](#resources)
@@ -57,6 +58,9 @@ A curated list of tools that will help you when working with or building on-top 
 ### Command-line
 - [cbt](https://cloud.google.com/bigtable/docs/cbt-overview) - Official command-line interface for performing several different operations on Cloud Bigtable. 
 - [btcli](https://github.com/takashabe/btcli) - CLI client for the Bigtable with auto-completion.
+
+### GUI
+- [vscode-bigtable](https://github.com/a7ul/vscode-bigtable) - VSCode extension that provides an easy to use GUI for querying bigtable instances
 
 ### Emulators
 - [Google Emulator](https://cloud.google.com/bigtable/docs/emulator) - Official in-memory emulator for Cloud Bigtable, included with the Google Cloud SDK.
