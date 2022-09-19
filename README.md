@@ -51,7 +51,6 @@ A curated list of tools that will help you when working with or building on-top 
 - [PHP](https://github.com/googleapis/google-cloud-php-bigtable) - Official implementation of the Google Cloud Bigtable PHP client.
 
 ### Other Client Libraries
-- [Simple Bigtable](https://github.com/spotify/simple-bigtable) - Java based client built and maintained by Spotify.
 - [Rust Bigtable](https://github.com/durch/rust-bigtable) - Rust library for working with Google Bigtable Data API.
 - [AsyncBigtable](https://github.com/OpenTSDB/asyncbigtable) - Implementation of AsyncHBase but on top of Google's Cloud Bigtable service.
 
